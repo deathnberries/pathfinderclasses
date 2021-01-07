@@ -1,3 +1,0 @@
-# pathfinderclasses
-Homebrewed Pathfinder Classes
-

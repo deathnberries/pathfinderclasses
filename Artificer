@@ -1,0 +1,104 @@
+# pathfinderclasses
+Homebrewed Pathfinder Classes
+
+Hit Dice 1d8 per artificer level
+Hit Points at 1st Level 8 + Constitution modifier
+Hit Points at Higher Levels 1d8 (or 5) + Constitution modifier per artificer level
+
+Proficiencies
+Armor: Light Armor, medium armor, shields
+Weapons: Simple Weapons
+Saving Throws: Expert in Fortitude and Will
+Perception: Trained in Perception
+Skills: Trained in Crafting
+           Trained in a number of skills equal to 3 plus your Intelligence                  Modifier
+Level	Class Features
+1	Ancestry and background, initial proficiencies, specialization, artificer feats
+2	Artificer feat, skill feat
+3	General feat, skill increase
+4	Artificer feat, skill feat
+5	Ability boost, ancestry feat, skill increase, specialty feat
+6	Artificer feat, skill feat
+7	Flash of Genius, general feat, skill increase, iron will
+8	Artificer feat, skill feat
+9	Specialty feat, alertness, ancestry feat, skill increase
+10	Ability boost, artificer feat, skill feat
+11	General feat, juggernaut, field crafting, skill increase
+12	Artificer feat, skill feat
+13	Ancestry feat, specialization discovery, light armor expertise, skill increase, weapon specialization
+14	Artificer feat, skill feat
+15	Ability boosts, specialty feat, evasion, general feat, skill increase
+16	Artificer feat, skill feat
+17	Specialization Mastery, ancestry feat, master craftsman, skill increase
+18	Artificer feat, skill feat
+19	General feat, light armor mastery, skill increase
+20	Ability boosts, artificer feat, skill feat
+
+Class Features
+You gain these abilities as an artificer. Abilities gained at higher levels list the levels at which you gain them next to the features’ names.
+
+ANCESTRY AND BACKGROUND
+In addition to the abilities provided by your class 1st level, you have the benefits of your selected ancestry and background, as described in Chapter 2.
+
+INITIAL PROFICIENCIES
+At 1st level, you gain a number of proficiencies that represent your basic training. These proficiencies are noted at the start of this class.
+
+TINKERING
+You’ve learned how to create extraordinary out of the mundane. To use this ability you must have artisan’s tools in hand.
+-Craft ammunition you may craft arrows, bolts, or bullets granted you have the basic materials to do so. Amount crafted is the Xd8, where X is the number of points above a successful DC15 crafting check. 
+-Repair damaged, but not destroyed objects. Such as damaged weapons, wagons, gates, etc.
+SPECIALIZATIONS
+Chose a specialization from either Armorer, Artillerist, or Weaponsmith. Your choice grants bonuses at levels 5, 9, and 15.
+
+ARTIFICER FEATS
+At 1st level and every even numbered after that, you gain an artificer class feat.
+
+SKILL FEATS
+At level 2 and every 2 after that, you gain a skill feat. Skill feats can be found in Chapter 5 and have the skill trait. You must be trained or better in the corresponding skill to select that feat.
+
+GENERAL FEATS
+At level 3 and every 4 after that, you gain a general feat. General feats are listed in Chapter 5.
+
+SKILL INCREASES
+At level 3 and every 2 after that, you gain a skill increase. You can use this to either increase your proficiency in an untrained skill to trained, or increase one skill you’re already trained in to expert.
+-At level 7 you can increase a skill you’re an expert in to master, and at 15 you can then increase a rank to legendary if you’re a master.
+
+
+
+ABILITY BOOSTS
+At level 5 and every 5 after that, you increase four different ability scores. You can increase a score to above 18. However the boost only increases by 1 if the ability is 18 or above.
+
+ANCESTRY FEATS
+In addition to the ancestry feat you started with, you gain another feat at level 5, and every 4 after that. List of ancestry feats are found in Chapter 2 in your ancestry’s entry.
+
+SPECIALTY FEATS	
+Armorer – Increase all armor proficiencies by 1 level.
+Level 5 armorer feature – 
+Custom Dampening -	You have advantage on Stealth checks, if your armor would normally impose disadvantage the affects cancel each other out.
+
+Extra Attack – You can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Level 9 armorer feature -
+
+Armor modification – You modify your armor to better suit your movements. Add 2 your AC
+
+Level 15 armorer feature –
+Armor  Mastery – add an additional level to each of your armor proficiencies.
+Legendary Armorsmith – If you possess a Legendary Armor Proficiency ie. Light whenever you don armor that you have crafted you gain the Legendary Proficiency for that armor type.
+Blacksmith – add 1 proficiency level to Simple and Martial Melee Weapons
+Level 5 blacksmith feature - 
+
+Enhanced Weapons - +1 attack and damage rolls. Increases to +2 at level 10.
+
+Extra Attack – You can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Level 9 blacksmith feature - 
+
+Weapons expert – add 1 proficiency level to Simple and Martial Melee Weapons
+
+Level 15 blacksmith feature – 
+Enchant Weapons – Through experiments with arcane arts you have learned how to enchant your weaponry. All weapons you use count as magical.
+Legendary Blacksmith – If you posses a Legendary Weapon Proficiency ie. Daggers whenever you use a weapon that you have crafted you gain the Legendary Proficiency for that weapon.
+
+Artillerist – add 1 proficiency level simple and martial ranged weapons
+
